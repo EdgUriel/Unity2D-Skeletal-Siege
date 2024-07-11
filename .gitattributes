@@ -1,0 +1,7 @@
+# Exclude ShaderLab files from language statistics
+*.shader linguist-vendored
+*.cginc linguist-vendored
+
+# Exclude HLSL files from language statistics
+*.hlsl linguist-vendored
+*.cg linguist-vendored
